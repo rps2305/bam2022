@@ -1,0 +1,10 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+Disallow: /assets/
+Disallow: /health.html
+Disallow: /online.html
+
+Sitemap: https://www.bamfestival.nl/sitemap.xml
