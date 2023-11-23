@@ -1,84 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>https://www.bamfestival.nl/404.html</loc>
+        <loc>/aftermovies.html</loc>
     </url>
     <url>
-        <loc>https://www.bamfestival.nl/aftermovies.html</loc>
+        <loc>/anbi-status.html</loc>
     </url>
     <url>
-        <loc>https://www.bamfestival.nl/anbi-status.html</loc>
+        <loc>/contact.html</loc>
     </url>
     <url>
-        <loc>https://www.bamfestival.nl/contact.html</loc>
+        <loc>/cookies.html</loc>
     </url>
     <url>
-        <loc>https://www.bamfestival.nl/cookies.html</loc>
+        <loc>/disclaimer-copy-right-privacy.html</loc>
     </url>
     <url>
-        <loc>https://www.bamfestival.nl/disclaimer-copy-right-privacy.html</loc>
+        <loc>/enquete.html</loc>
     </url>
     <url>
-        <loc>https://www.bamfestival.nl/enquete.html</loc>
+        <loc>/fotoalbums.html</loc>
     </url>
     <url>
-        <loc>https://www.bamfestival.nl/fotoalbum-detail.html</loc>
+        <loc>/fotografie-pers.html</loc>
     </url>
     <url>
-        <loc>https://www.bamfestival.nl/fotoalbums.html</loc>
+        <loc>/historie.html</loc>
     </url>
     <url>
-        <loc>https://www.bamfestival.nl/fotografie-pers.html</loc>
+        <loc>/huisregels.html</loc>
     </url>
     <url>
-        <loc>https://www.bamfestival.nl/health.html</loc>
+        <loc>/</loc>
     </url>
     <url>
-        <loc>https://www.bamfestival.nl/historie.html</loc>
+        <loc>/informatie.html</loc>
     </url>
     <url>
-        <loc>https://www.bamfestival.nl/huisregels.html</loc>
+        <loc>/inschrijven-vrijwilligers.html</loc>
     </url>
     <url>
-        <loc>https://www.bamfestival.nl/</loc>
+        <loc>/kunst.html</loc>
     </url>
     <url>
-        <loc>https://www.bamfestival.nl/informatie.html</loc>
+        <loc>/nieuws.html</loc>
     </url>
     <url>
-        <loc>https://www.bamfestival.nl/inschrijven-vrijwilligers.html</loc>
+        <loc>/plattegrond.html</loc>
     </url>
     <url>
-        <loc>https://www.bamfestival.nl/kunst.html</loc>
+        <loc>/programma.html</loc>
     </url>
     <url>
-        <loc>https://www.bamfestival.nl/nieuws.html</loc>
+        <loc>/programma-detail.html</loc>
     </url>
     <url>
-        <loc>https://www.bamfestival.nl/offline.html</loc>
+        <loc>/route-parkeren.html</loc>
     </url>
     <url>
-        <loc>https://www.bamfestival.nl/plattegrond.html</loc>
+        <loc>/sponsor-worden.html</loc>
     </url>
     <url>
-        <loc>https://www.bamfestival.nl/programma.html</loc>
+        <loc>/sponsors.html</loc>
     </url>
     <url>
-        <loc>https://www.bamfestival.nl/programma-detail.html</loc>
+        <loc>/theater.html</loc>
     </url>
     <url>
-        <loc>https://www.bamfestival.nl/route-parkeren.html</loc>
-    </url>
-    <url>
-        <loc>https://www.bamfestival.nl/sponsor-worden.html</loc>
-    </url>
-    <url>
-        <loc>https://www.bamfestival.nl/sponsors.html</loc>
-    </url>
-    <url>
-        <loc>https://www.bamfestival.nl/theater.html</loc>
-    </url>
-    <url>
-        <loc>https://www.bamfestival.nl/timetable.html</loc>
+        <loc>/timetable.html</loc>
     </url>
 </urlset>
